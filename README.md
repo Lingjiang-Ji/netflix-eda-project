@@ -15,3 +15,14 @@ This project explores Netflix's publicly available content dataset to uncover ke
 - Key columns: `type`, `title`, `country`, `date_added`, `duration`, `listed_in`
 
 🔍 Questions Answered
+1.What's the trend of the number of contents published by Netflix? (Is there a increase?)
+
+2.Which country/region has the largest number of contents?
+
+3.What's the ratio of movies to TV series? Any change in the trend?
+
+4.What are the most popular genres?
+
+5.In which months does Netflix publish the largest number of new contents? Is there a holiday peak?
+
+6.What's the distribution of the length of contents? (Short or long ?)
