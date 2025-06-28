@@ -1,4 +1,4 @@
-# netflix-eda-project
+# Netflix-EDA-Project
 
 📊 Netflix Content Strategy — Exploratory Data Analysis (EDA)
 This project explores Netflix's publicly available content dataset to uncover key patterns in content type, genre, country origin, monthly release trends and duration.
@@ -15,6 +15,7 @@ This project explores Netflix's publicly available content dataset to uncover ke
 - Key columns: `type`, `title`, `country`, `date_added`, `duration`, `listed_in`
 
 🔍 Questions Answered
+
 1.What's the trend of the number of contents published by Netflix? (Is there a increase?)
 
 2.Which country/region has the largest number of contents?
