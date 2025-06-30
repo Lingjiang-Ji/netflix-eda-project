@@ -28,6 +28,6 @@ This project explores Netflix's publicly available content dataset to uncover ke
 
 6.What's the distribution of the length of contents? (Short or long ?)
 
-📎 **View Interactive Notebook on Colab**  
+🔗***View Interactive Notebook on Colab**  
 [Open in Google Colab](https://colab.research.google.com/drive/1u6q6fKyv2r6cZd5_aQIyLI0AqPo_9MYQ?usp=sharing)
 
