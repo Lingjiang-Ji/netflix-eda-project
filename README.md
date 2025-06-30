@@ -34,4 +34,5 @@ This project explores Netflix's publicly available content dataset to uncover ke
 ✨ Author
 [Lingjiang Ji]
 Aspiring Data Analyst | Python & SQL & PowerBI | Focused on storytelling through data
+
 | 🌐 [www.linkedin.com/in/lingjiang-ji-417122360]
