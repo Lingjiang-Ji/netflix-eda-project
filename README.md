@@ -1,18 +1,35 @@
 # Netflix-EDA-Project
 
-📊 Netflix Content Strategy — Exploratory Data Analysis (EDA)
-This project explores Netflix's publicly available content dataset to uncover key patterns in content type, genre, country origin, monthly release trends and duration.
+## 📊 Netflix Content Strategy — Exploratory Data Analysis (EDA)
 
-🎯 Project Objectives
+This project explores Netflix's public dataset to uncover trends in content production and distribution.  
+Through Python-based exploratory data analysis (EDA), I analyzed growth trends, content types, genres, and release patterns.
+
+## 🎯 Project Objectives
 - Understand the growth trend and origin distribution of Netflix content
+- Compare Movies vs TV Shows: ratio, trends, and duration
 - Identify the most common genres and whether they differ between Movies and TV Shows
 - Analyze release seasonality: are there holiday/summer peaks?
 - Investigate the duration patterns for both Movies and TV Shows
 
-  📁 Dataset
-- Source: [Kaggle - Netflix Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
-- Size: ~8800 records
-- Key columns: `type`, `title`, `country`, `date_added`, `duration`, `listed_in`
+## 📊 Key Findings
+1. Netflix content grew rapidly from 2015 to 2019, with a noticeable drop in 2020 likely due to COVID-19 disruptions.
+2. Movies dominate the library (~70%), but TV Shows have gradually increased since 2018.
+3. Top genres: Children & Family, Romance, Dramas, Comedies, Crime.
+4. Seasonal peaks are observed in summer and winter, aligning with global holiday seasons.
+5. Most movies last 80–120 mins, while most TV Shows are single-season series.
+
+## 🛠️ Tools & Skills
+- Python, Pandas, NumPy
+- Data Cleaning & Transformation
+- Matplotlib & Seaborn Visualization
+- Exploratory Data Analysis (EDA) & Storytelling
+   
+## 📂 Project Structure
+- `notebooks/netflix_eda.ipynb`: Full analysis workflow
+- `figures/`: Selected visualizations for quick review
+- `data/`: Dataset or description
+- `requirements.txt`: Key Python dependencies
 
 🔍 Questions Answered
 
