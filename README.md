@@ -28,37 +28,37 @@ They summarize the main insights of Netflix content trends, type comparison, gen
 
 ### 1️⃣ Annual Trend of Netflix Content (Q1)
 *Number of new titles added by year*
-![Annual Trend](figures/annual_trend_q1.png)
+![Annual Trend](figures/q1/annual_trend_q1.png)
 
 ---
 
 ### 2️⃣ Top Countries by Number of Titles (Q2)
 *Shows the countries with the largest Netflix content libraries*
-![Top Countries](figures/top_countries_q2.png)
+![Top Countries](figures/q2/top_countries_q2.png)
 
 ---
 
 ### 3️⃣ Movies vs TV Shows Trend (Q3)
 *Stacked columns for yearly counts and a line for the Movies/TV ratio*
-![Movies vs TV Trend](figures/movie_tv_ratio_trend_q3.png)
+![Movies vs TV Trend](figures/q3/movie_tv_ratio_trend_q3.png)
 
 ---
 
 ### 4️⃣ Top 5 Genres Trend (2015–2021) (Q4)
 *Popularity trend of top 5 genres across years*
-![Top 5 Genres Trend](figures/top5_genres_trend_q4.png)
+![Top 5 Genres Trend](figures/q4/top5_genres_trend_q4.png)
 
 ---
 
 ### 5️⃣ Monthly Release Heatmap (Q5)
 *Highlights seasonal peaks and yearly patterns in content release*
-![Monthly Heatmap](figures/monthly_release_heatmap_q5.png)
+![Monthly Heatmap](figures/q5/monthly_release_heatmap_q5.png)
 
 ---
 
 ### 6️⃣ Movie Duration Distribution (Q6)
 *Distribution of movie lengths (minutes)*
-![Movie Duration](figures/movie_duration_line_q6.png)
+![Movie Duration](figures/q6/movie_duration_line_q6.png)
 
 ---
 
