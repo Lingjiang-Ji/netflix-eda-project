@@ -72,7 +72,7 @@ Additional visualizations are available in the [`figures/`](figures) folder.
 - Exploratory Data Analysis (EDA) & Storytelling
    
 ## 📂 Project Structure
-- `notebooks/netflix_eda.ipynb`: Full analysis workflow
+- `notebooks/Netflix_EDA_Project.ipynb`: Full analysis workflow
 - `figures/`: Selected visualizations for quick review
 - `data/`: Dataset or description
 - `requirements.txt`: Key Python dependencies
