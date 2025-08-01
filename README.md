@@ -74,7 +74,7 @@ Additional visualizations are available in the [`figures/`](figures) folder.
 ## 📂 Project Structure
 - `notebooks/Netflix_EDA_Project.ipynb`: Full analysis workflow
 - `figures/`: Selected visualizations for quick review
-- `data/`: Dataset or description
+- `data/`: Dataset information
 - `requirements.txt`: Key Python dependencies
 
 🔍 Questions Answered
