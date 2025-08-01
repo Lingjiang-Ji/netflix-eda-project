@@ -12,14 +12,12 @@ Through Python-based exploratory data analysis (EDA), I analyzed growth trends, 
 - Analyze release seasonality: are there holiday/summer peaks?
 - Investigate the duration patterns for both Movies and TV Shows
 
-## 📊 Key Findings
+## 📊 Key Findings & Visualizations
 1. Netflix content grew rapidly from 2015 to 2019, with a noticeable drop in 2020 likely due to COVID-19 disruptions.
 2. Movies dominate the library (~70%), but TV Shows have gradually increased since 2018.
 3. Top genres: Children & Family, Romance, Dramas, Comedies, Crime.
 4. Seasonal peaks are observed in summer and winter, aligning with global holiday seasons.
 5. Most movies last 80–120 mins, while most TV Shows are single-season series.
-
-## 📊 Key Visualizations
 
 Below are selected visualizations from the project.  
 They summarize the main insights of Netflix content trends, type comparison, genre patterns, and duration analysis.
@@ -52,12 +50,14 @@ They summarize the main insights of Netflix content trends, type comparison, gen
 
 ### 5️⃣ Monthly Release Heatmap (Q5)
 *Highlights seasonal peaks and yearly patterns in content release*
+
 ![Monthly Heatmap](figures/q5/monthly_release_heatmap_q5.png)
 
 ---
 
 ### 6️⃣ Movie Duration Distribution (Q6)
 *Distribution of movie lengths (minutes)*
+
 ![Movie Duration](figures/q6/movie_duration_line_q6.png)
 
 ---
