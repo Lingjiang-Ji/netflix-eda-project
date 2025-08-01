@@ -19,6 +19,52 @@ Through Python-based exploratory data analysis (EDA), I analyzed growth trends, 
 4. Seasonal peaks are observed in summer and winter, aligning with global holiday seasons.
 5. Most movies last 80–120 mins, while most TV Shows are single-season series.
 
+## 📊 Key Visualizations
+
+Below are selected visualizations from the project.  
+They summarize the main insights of Netflix content trends, type comparison, genre patterns, and duration analysis.
+
+---
+
+### 1️⃣ Annual Trend of Netflix Content (Q1)
+*Number of new titles added by year*
+![Annual Trend](figures/annual_trend_q1.png)
+
+---
+
+### 2️⃣ Top Countries by Number of Titles (Q2)
+*Shows the countries with the largest Netflix content libraries*
+![Top Countries](figures/top_countries_q2.png)
+
+---
+
+### 3️⃣ Movies vs TV Shows Trend (Q3)
+*Stacked columns for yearly counts and a line for the Movies/TV ratio*
+![Movies vs TV Trend](figures/movie_tv_ratio_trend_q3.png)
+
+---
+
+### 4️⃣ Top 5 Genres Trend (2015–2021) (Q4)
+*Popularity trend of top 5 genres across years*
+![Top 5 Genres Trend](figures/top5_genres_trend_q4.png)
+
+---
+
+### 5️⃣ Monthly Release Heatmap (Q5)
+*Highlights seasonal peaks and yearly patterns in content release*
+![Monthly Heatmap](figures/monthly_release_heatmap_q5.png)
+
+---
+
+### 6️⃣ Movie Duration Distribution (Q6)
+*Distribution of movie lengths (minutes)*
+![Movie Duration](figures/movie_duration_line_q6.png)
+
+---
+
+Additional visualizations are available in the [`figures/`](figures) folder.
+
+
 ## 🛠️ Tools & Skills
 - Python, Pandas, NumPy
 - Data Cleaning & Transformation
